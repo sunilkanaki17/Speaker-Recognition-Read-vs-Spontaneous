@@ -5,8 +5,7 @@ This project implements a speaker recognition system using deep learning techniq
 ## Project Structure
 
 - `code/`: Contains the implementation codes.
-- `images/`: Contains images and plots used in the project.
-- `data/`: Contains the dataset used for training and testing.
+- `Results/`: Contains images and plots used in the project.
 - `README.md`: Project documentation.
 
 ## Description
